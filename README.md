@@ -9,3 +9,15 @@ vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&
 vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@85.239.38.170:443?alpn=http/1.1&fp=chrome&type=xhttp&sni=sberbank.ru&sid=6fb05d1f3a&mode=auto&path=%2FIyHp1walQdzArb4zO3s9WNg&security=reality&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F103.0.0.0+Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&host=sberbank.ru&allowinsecure=0#🇷🇺Белые списки №8
 vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@85.239.38.170:443?mode=gun&security=reality&encryption=none&alpn=h2&authority=&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&fp=chrome&allowinsecure=0&type=grpc&serviceName=IyHp1walQdzArbolqKNJyLgGExCb&sni=tinkoff.ru&sid=6fb05d1f3a#🇷🇺Белые списки №9
 vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6fb05d1f3a#🇷🇺Белые списки №10
+
+vless://66df63d3-2798-4ae6-81a1-90422de64992@de-bex-1.bexum.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-bex-1.bexum.fun&fp=randomized&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&type=tcp#🇩🇪 Обход блокировок №11
+
+vless://66df63d3-2798-4ae6-81a1-90422de64992@de-bex-1.bexum.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-bex-1.bexum.fun&fp=randomized&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&type=tcp#🇩🇪 Обход блокировок №12
+
+vless://66df63d3-2798-4ae6-81a1-90422de64992@nl1.bexum.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl1.bexum.fun&fp=randomized&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=f5781bd8af7dbaf6&type=tcp#🇩🇪 Обход блокировок №13
+
+vless://66df63d3-2798-4ae6-81a1-90422de64992@frankfurt-1.bexum.fun:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&type=tcp#🇩🇪 Обход блокировок №14
+
+vless://66df63d3-2798-4ae6-81a1-90422de64992@de1.bexum.fun:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&type=tcp#🇩🇪 Обход блокировок №15
+
+vless://66df63d3-2798-4ae6-81a1-90422de64992@nl-2.bexum.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-2.bexum.fun&fp=randomized&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&type=tcp#🇩🇪 Обход блокировок №16
