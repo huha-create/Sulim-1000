@@ -4,7 +4,7 @@ vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@poland.youtuber-vps.com:443?securit
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@estonia.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=estonia.youtuber-vps.com&sid=b95d09fc94955ba4#🇪🇪 Обход блокировок №2
 
-vless://239ac661-ef9d-408d-892d-7eabd7a68abb@us.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇺🇸 Обход блокировок №3
+vless://c50fc6d2-f1cb-4a74-9425-b1bed445519f@vpn.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=rXxycGi601Cidz5GiRrFTGWCtcDkQbCasWUXnQoUkTk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.wildberries.ru&sid=6fb05d#🇫🇮 Обход блокировок №3
 
 vless://239ac661-ef9d-408d-892d-7eabd7a68abb@niderus.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇳🇱 Обход блокировок №4
 
