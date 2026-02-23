@@ -26,7 +26,7 @@ vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality
 vless://66df63d3-2798-4ae6-81a1-90422de64992@95.163.215.121:666?type=tcp&security=reality&sni=eh.vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №11
 vless://66df63d3-2798-4ae6-81a1-90422de64992@95.163.211.92:8443?type=tcp&security=reality&sni=yandex.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №12
 vless://66df63d3-2798-4ae6-81a1-90422de64992@185.86.144.197:8443?type=tcp&security=reality&sni=ir-2.ozone.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №13
-vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6fb05d1f3a#🇷🇺 Бесплатная опасность №14
+vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №14
 vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №15
 
 
