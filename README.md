@@ -25,8 +25,10 @@ vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality
 
 vless://66df63d3-2798-4ae6-81a1-90422de64992@95.163.215.121:666?type=tcp&security=reality&sni=eh.vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №11
 vless://66df63d3-2798-4ae6-81a1-90422de64992@95.163.211.92:8443?type=tcp&security=reality&sni=yandex.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №12
-vless://66df63d3-2798-4ae6-81a1-90422de64992@185.86.144.197:8443?type=tcp&security=reality&sni=ir-2.ozone.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №13
-vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №14
-vless://1c31c8eb-6d3d-4c46-a0e8-9e7715f92386@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=6fb05d1f3a#🇷🇺 Беспилотная опасность №15
+vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:443?security=reality&encryption=none&pbk=5BMvIPwC1F4_VjmWu0kwA-LI4Ic2xQ0hZH3g57SAvzc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=target.vk.ru&sid=3fb8b93277e02d9d#🇷🇺 Беспилотная опасность №13
 
+vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:8443?mode=gun&security=reality&encryption=none&authority=&pbk=DTD9eXmhDjqSVvpzRQV7wuSaDZtPhB6NSAhtOwbFYmk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=id.vk.ru&sid=fc28a70d1070913c#🇷🇺 Беспилотная опасность №14
 
+vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность №15
+
+vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность №16
