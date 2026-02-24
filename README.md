@@ -11,7 +11,7 @@ vless://239ac661-ef9d-408d-892d-7eabd7a68abb@niderus.fluxevpn.ru:8443?security=r
 vless://239ac661-ef9d-408d-892d-7eabd7a68abb@rusm2.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇹🇷 Обход блокировок №5
  
 vless://66df63d3-2798-4ae6-81a1-90422de64992@95.163.215.121:666?type=tcp&security=reality&sni=eh.vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №6
-vless://66df63d3-2798-4ae6-81a1-90422de64992@95.163.211.92:8443?type=tcp&security=reality&sni=yandex.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №12
+
 vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:443?security=reality&encryption=none&pbk=5BMvIPwC1F4_VjmWu0kwA-LI4Ic2xQ0hZH3g57SAvzc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=target.vk.ru&sid=3fb8b93277e02d9d#🇷🇺 Беспилотная опасность №7
 
 vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:8443?mode=gun&security=reality&encryption=none&authority=&pbk=DTD9eXmhDjqSVvpzRQV7wuSaDZtPhB6NSAhtOwbFYmk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=id.vk.ru&sid=fc28a70d1070913c#🇷🇺 Беспилотная опасность №8
