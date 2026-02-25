@@ -1,4 +1,4 @@
-#profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🚀
+#profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🏴
 
 vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@poland.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=poland.youtuber-vps.com&sid=b95d09fc94955ba4#🇵🇱 Обход блокировок №1
 
