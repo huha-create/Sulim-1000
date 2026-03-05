@@ -12,29 +12,13 @@ vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@2.59.41.161:8443?type=grpc&mode=gun
 
 vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@poland.youtuber-vps.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=poland.youtuber-vps.com&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&sid=b95d09fc94955ba4#🇹🇷 Обход блокировок №5
  
-vless://66df63d3-2798-4ae6-81a1-90422de64992@95.163.215.121:666?type=tcp&security=reality&sni=eh.vk.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890&flow=xtls-rprx-vision&encryption=none#🇷🇺 Беспилотная опасность №6
-
-vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:443?security=reality&encryption=none&pbk=5BMvIPwC1F4_VjmWu0kwA-LI4Ic2xQ0hZH3g57SAvzc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=target.vk.ru&sid=3fb8b93277e02d9d#🇷🇺 Беспилотная опасность №7
-
-vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@185.130.114.215:8443?mode=gun&security=reality&encryption=none&authority=&pbk=DTD9eXmhDjqSVvpzRQV7wuSaDZtPhB6NSAhtOwbFYmk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=id.vk.ru&sid=fc28a70d1070913c#🇷🇺 Беспилотная опасность №8
-
-vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность №9
-
-vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность №10
-
-
-vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность №11
-
-
-vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность №12
-
-vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@185.130.114.215:443?security=reality&encryption=none&pbk=5BMvIPwC1F4_VjmWu0kwA-LI4Ic2xQ0hZH3g57SAvzc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.cs7777.vk.ru&sid=3fb8b93277e02d9d#🇷🇺 Беспилотная опасность №13
-
-vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@185.130.114.215:8443?mode=gun&security=reality&encryption=none&authority=&pbk=DTD9eXmhDjqSVvpzRQV7wuSaDZtPhB6NSAhtOwbFYmk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=vkvideo.cs7777.vk.ru&sid=fc28a70d1070913c#🇷🇺 Беспилотная опасность №14
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.208.188:8443?security=reality&encryption=none&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e5fa9569c4d0cb5e#🇷🇺 Беспилотная опасность №15
-
-trojan://bQTLp0uCdjHHHTYHNrJ6NWdJ0bbF72@37.139.34.175:8443?security=reality&pbk=VoThhJ_pOwFXUCjB8DCpK3cM1ymeZKV4fBmo6audKVQ&headerType=none&spx=%2F&type=tcp&sni=max.ru&sid=9c2378562188c3cb#🇷🇺 Беспилотная опасность №16
-
-vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.215.121:666?security=reality&encryption=none&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a1b2c3d4e5f67890#🇷🇺 Беспилотная опасность №17
-
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 Беспилотная опасность ⚡ 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F%3FTelegram%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 Беспилотная опасность ⚡ 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 Беспилотная опасность ⚡ 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 Беспилотная опасность ⚡ 4
+vless://f08da222-6a74-4ef9-931c-463ddb7fc810@185.40.153.210:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#🇷🇺 Беспилотная опасность ⚡ 5
+vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 Беспилотная опасность ⚡ 6
+vless://e88e623b-f88a-4260-92e1-b4234121575d@95.163.210.62:443?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=425ba80cd1a821a8#🇷🇺 Беспилотная опасность ⚡ 7
+vless://62732d71-ed6e-4b02-8827-370fe994933b@vkon293.chert.ca:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#🇷🇺 Беспилотная опасность ⚡ 8
+vless://9b980885-17e3-4148-9219-b61906e046fd@ruwl.kubservice.icu:443?security=reality&encryption=none&pbk=d3Cfs7vkov8-PJZz1ZYzqJyh4M0aimJofccCRxZc3XQ&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇩🇪 Беспилотная опасность ⚡ 9
+vless://e88e623b-f88a-4260-92e1-b4234121575d@51.250.5.6:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=425ba80cd1a821a8#🇷🇺 Беспилотная опасность ⚡ 10
