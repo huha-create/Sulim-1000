@@ -2,7 +2,7 @@
 
 #profile-update-interval: 1
 
-vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@poland.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=poland.youtuber-vps.com&sid=b95d09fc94955ba4#🇵🇱 Обход блокировок №1
+vless://9abf9451-dac0-4403-ae33-16433244807c@frankfurt-1.bexum.fun:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e#🇵🇱 Обход блокировок №1
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@estonia.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=estonia.youtuber-vps.com&sid=b95d09fc94955ba4#🇪🇪 Обход блокировок №2
 
@@ -10,7 +10,7 @@ vless://c50fc6d2-f1cb-4a74-9425-b1bed445519f@vpn.tgflovv.ru:443?security=reality
 
 vless://b6ab491f-b819-40d7-a1e5-c7c168c4a351@2.59.41.161:8443?type=grpc&mode=gun&serviceName=xyz&security=reality&fp=ios&sni=apple.com&pbk=HQgU7c-y_O5Phhc40C3JdrCzb6eUpw9Mx5ep4BCzvnU&sid=745d2ea5343ba6a3#🇳🇱 Обход блокировок №4
 
-vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@poland.youtuber-vps.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=poland.youtuber-vps.com&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&sid=b95d09fc94955ba4#🇹🇷 Обход блокировок №5
+vless://c50fc6d2-f1cb-4a74-9425-b1bed445519f@ru.tgflovv.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&sid=6fb05d1f3a#🇹🇷 Обход блокировок №5
  
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 Беспилотная опасность ⚡ 1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F%3FTelegram%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 Беспилотная опасность ⚡ 2
