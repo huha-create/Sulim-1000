@@ -24,4 +24,5 @@ vless://f8667586-2fe3-4421-8b77-d354634ffa6c@hole.datanode-internal.net:8443?sec
 vless://f8667586-2fe3-4421-8b77-d354634ffa6c@hole.datanode-internal.net:9443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=abbcd128#🇷🇺 Беспилотная опасность ⚡ 8
 
 vless://4b8d38f4-fe27-4c68-a81e-6eab88d2f747@ya8093.memeplanet.org:443?security=reality&encryption=none&pbk=fwP6TEOO-QKP_cmGoInaGhZEPb5YgMNhj0N3Hpbqwww&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=80b00e6b60633608#🇩🇪 Беспилотная опасность ⚡ 9
-vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.211.92:8443?security=reality&encryption=none&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=e5fa9569c4d0cb5e#🇷🇺 Беспилотная опасность ⚡ 10
+
+vless://9abf9451-dac0-4403-ae33-16433244807c@89.208.208.194:8443?security=reality&encryption=none&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e5fa9569c4d0cb5e#🇷🇺 Беспилотная опасность ⚡ 10
