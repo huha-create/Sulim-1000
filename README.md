@@ -4,7 +4,7 @@
 
 #announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
 
-vless://9abf9451-dac0-4403-ae33-16433244807c@frankfurt-1.bexum.fun:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e#🇵🇱 Обход блокировок №1
+vless://c9149cb7-cdde-4f7f-ad43-70a4a6de6ecc@51.250.85.250:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=EVyNin-h6BM0oliuXAHSxFWAsmmQswkc6NpNzCYWTH0&sid=31c1cf85b5c822d7&type=tcp#🇵🇰 VPN №1
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@estonia.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=estonia.youtuber-vps.com&sid=b95d09fc94955ba4#🇪🇪 Обход блокировок №2
 
