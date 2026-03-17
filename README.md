@@ -4,6 +4,13 @@
 
 #announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
 
+vless://f10e302f-4164-44bd-a551-faa4a47f59e2@hole.vz-or.com:443?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp&flow=xtls-rprx-vision#🇵🇱 Мобильная связь 1
+
+vless://f10e302f-4164-44bd-a551-faa4a47f59e2@hole.vz-or.com:443?encryption=none&security=reality&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp&flow=xtls-rprx-vision#🇵🇱 Мобильная связь 2
+
+vless://f10e302f-4164-44bd-a551-faa4a47f59e2@hole.vz-or.com:443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&type=tcp&flow=xtls-rprx-vision#🇵🇱 Мобильная связь 3
+
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd2NCeHZNZ3FzcDVtVFhDNG5qVi1Tb2FBREtFQmJWdA==@87.120.187.107:9999#🇩🇪 Беспилотная опасность ⚡️ 1
 
 vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇳🇱 Беспилотная опасность ⚡️ 2
