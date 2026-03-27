@@ -8,7 +8,7 @@
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@poland-1.bexum.fun:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=randomized&sni=poland-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=5dd747e98058584b#🇵🇰 Обычные сервера ⤵️
 
-vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@185.72.86.101:59999?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yastatic.net&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=a1b2c3d4#🇸🇦 Для WhatsApp
+vless://4fd0bf75-330d-44a3-9e9b-df1124f514ce@185.72.86.101:59999?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yastatic.net&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=a1b2c3d4# Для WhatsApp
 
 vless://9abf9451-dac0-4403-ae33-16433244807c@nl-3.bexum.fun:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-3.bexum.fun#🇳🇱 Нидерланды 1
 
