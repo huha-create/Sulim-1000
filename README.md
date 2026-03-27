@@ -6,7 +6,7 @@
 
 
 
-vless://9abf9451-dac0-4403-ae33-16433244807c@poland-1.bexum.fun:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=randomized&sni=poland-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=5dd747e98058584b#🇵🇰 Обычные сервера ⤵️
+vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@194.87.215.29:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇵🇰 Обычные сервера ⤵️
 
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@185.72.86.101:59999?security=reality&encryption=none&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=2f19c0a1#🇵🇰 Для WhatsApp 🟢 
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇵🇰 Для WhatsApp 🟢 
