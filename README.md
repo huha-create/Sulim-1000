@@ -9,7 +9,7 @@
 
 
 
-vless://cc877de3-ffb5-4d0a-9b01-ca086ab53df8@95.163.211.148:7443?type=xhttp&host=&path=/&mode=auto&security=reality&fp=edge&sni=max.ru&pbk=veiKVte6etGKIcHLcraagEyEVn6K-TOJaUNviSnjuXA&sid=6e9626db3bac#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0%20%7C%2017
+vless://cc877de3-ffb5-4d0a-9b01-ca086ab53df8@95.163.211.148:7443?type=xhttp&host=&path=/&mode=auto&security=reality&fp=edge&sni=max.ru&pbk=veiKVte6etGKIcHLcraagEyEVn6K-TOJaUNviSnjuXA&sid=6e9626db3bac#🇩🇪 Основа 
  
 
 vless://fc3becc0-96e2-45b8-890a-7b746ad3c381@51.250.90.82:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA+%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80
