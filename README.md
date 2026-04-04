@@ -8,11 +8,11 @@
 
 
 
-vless://ec291523-04f7-4589-b08f-1d443452ea76@91.243.86.138:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=lMjOQFqNZMEn8jwg0_QmEM1tL3ylcRlrzKVQ5ffjEWs&sid=c1ddc0b22a&spx=/#🇵🇰 Основной 
+vless://cd63947a-54c6-0c89-0de9-a4c68b78c8dc@146.19.90.2:993?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#🇵🇰 Основной 
 
-vless://ec291523-04f7-4589-b08f-1d443452ea76@91.243.86.138:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=lMjOQFqNZMEn8jwg0_QmEM1tL3ylcRlrzKVQ5ffjEWs&sid=67&spx=/#🇵🇰 Резерв 🔗1
+vless://cd63947a-54c6-0c89-0de9-a4c68b78c8dc@103.175.79.2:993?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#🇵🇰 Резерв 🔗1
 
-vless://65348e07-8519-43a9-a8ba-d1c801cdba45@51.250.47.27:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=mts.ru&pbk=F3f1-P4FbVoZuGjLeKhzH7ye5oXvkK4anxEacO7CHGI&sid=8a09e89a45981acb&spx=/#🇫🇮 Резерв 🔗2
+vless://cd63947a-54c6-0c89-0de9-a4c68b78c8dc@166.1.131.9:20454?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04#🇫🇮 Резерв 🔗2
 
 
 
