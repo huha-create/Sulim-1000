@@ -8,6 +8,11 @@
 
 
 
+vless://ec291523-04f7-4589-b08f-1d443452ea76@91.243.86.138:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=lMjOQFqNZMEn8jwg0_QmEM1tL3ylcRlrzKVQ5ffjEWs&sid=c1ddc0b22a&spx=/#🇵🇰 Основной 
+
+vless://ec291523-04f7-4589-b08f-1d443452ea76@91.243.86.138:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=lMjOQFqNZMEn8jwg0_QmEM1tL3ylcRlrzKVQ5ffjEWs&sid=67&spx=/#🇵🇰 Резерв 🔗1
+
+vless://65348e07-8519-43a9-a8ba-d1c801cdba45@51.250.47.27:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=mts.ru&pbk=F3f1-P4FbVoZuGjLeKhzH7ye5oXvkK4anxEacO7CHGI&sid=8a09e89a45981acb&spx=/#🇫🇮 Резерв 🔗2
 
 
 
