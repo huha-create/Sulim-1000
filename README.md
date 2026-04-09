@@ -4,6 +4,24 @@
 
 #announce:Если не работает Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡 Перепродажа или передача ключа делаю Харамом ‼️
 
+vless://5634afe5-3b05-4f0c-907b-5cb8b45a2a83@176.108.242.1:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=res.fasssst.online&pbk=v4WzxZ3JYdDbaQIQ5-yUmM3UjUcpz0Ts8UmgjG6ZnlQ&sid=0cdeece2c23578&spx=/#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%F0%9F%94%83
+
+vless://638ca440-a656-44fd-aa68-861841259dfb@85.239.51.204:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=xneo.strelkavpn.ru&pbk=fMhaLCmGReyB5mOIP2UON2lk3iVTZ0VAiXMcMpGHuBA&sid=bc95594885&spx=/#%F0%9F%87%B9%F0%9F%87%B7%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%F0%9F%94%83
+
+vless://0809c471-7673-41e7-b8db-1a83e55de3c0@168.222.194.226:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=import.fasssst.ru&pbk=LSbT8omoOjQObf3VdpU0uH4YXYyMF8OJajsk-oM_1Es&sid=09&spx=/#%F0%9F%87%AE%F0%9F%87%B1%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%F0%9F%94%83
+
+vless://f7c20b46-e068-4d89-8c90-119354cdd6af@45.151.62.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ssd.fasssst.ru&pbk=S_--Qvg_N5BEwBjQ0Tp3ncvIo1FkYEN_dE2eckR83xc&sid=bbebcdf561ee3e&spx=/#%F0%9F%87%A7%F0%9F%87%AC%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F%F0%9F%94%83
+
+vless://a29efbf5-b3ff-4c13-a0e8-2b8cbcda67ea@89.232.177.55:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=shinder.strelkavpn.ru&pbk=RVkVE46kY1ohlQljZIkaAH8DVao2CiuEDT5rNkLxoRI&sid=6e7db09176369d&spx=/#%F0%9F%87%AC%F0%9F%87%A7%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%F0%9F%94%83
+
+vless://b8321478-209d-4c8c-8a46-7f17a5afc980@185.76.241.114:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=up.connectvpn.tech&pbk=DFhUAq6Vm20RkRxlXt3IW2x8-nPuo0FIItO7_erIJ28&sid=eb0b2cb757a0f52f&spx=/#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%F0%9F%94%83
+
+vless://349fd5e7-31f6-4d33-9fe1-574ac66dbad3@95.163.209.2:450?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=new.connectvpn.tech&pbk=TNshlXAkvyT0FRudmuLWnBtqCaq3vy8SGOOkoWEGth0&sid=3a236d05321056b3&spx=/#%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%F0%9F%94%83
+
+vless://301ff29e-2abc-4bc3-ab2e-3f576127b679@81.17.154.236:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fas.connectvpn.tech&pbk=EnIIAUyY9niwTMZlWVFCJz3mQTTDA4H_uYSZNXjcWAg&sid=24a46ef9282fad&spx=/#%F0%9F%87%B1%F0%9F%87%BA%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%F0%9F%94%83
+
+vless://9c2cff08-0d9c-4272-8a2c-b6085c44684d@5.129.246.95:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=zoom.connectvpn.tech&pbk=dgNcJ54A7L6INYMTkZeU5mvHbg1A_TrOpEGsod_ksHM&sid=c2767868cc&spx=/#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%F0%9F%94%83
+
 vless://fc3becc0-96e2-45b8-890a-7b746ad3c381@51.250.90.82:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇩🇪 Авто-выбор 
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS0zMTIubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTMxMi5taXJyYS5ub3ciLCJpZCI6ImZmZDk3Y2IzLWU5YjItNGE1ZS04MWYwLTVkY2NlMjVkNTQ2MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e38J+HuiDQk9C70YPRiNC40LvQutCwIDEiLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtMzEyLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS0zMTIubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTMxMi5taXJyYS5ub3ciLCJpZCI6ImZmZDk3Y2IzLWU5YjItNGE1ZS04MWYwLTVkY2NlMjVkNTQ2MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e38J+HuiDQk9C70YPRiNC40LvQutCwIDIiLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtMzEyLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
