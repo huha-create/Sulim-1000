@@ -34,6 +34,10 @@
 Перепродажу и распространение ключа делаю Харамом 
 
 
+vless://2d5728e2-bfca-4081-86e2-3b34200219be@51.250.90.82:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇦🇷АВТО-ВЫБОР #1 🔀
+
+vless://2d5728e2-bfca-4081-86e2-3b34200219be@51.250.25.175:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇦🇷 АВТО-ВЫБОР #2 🔀
+
 vless://1c1291bf-5f96-4686-b7e4-17d8ec84a6e7@one.vbirfio.site:443?path=%2F019bcdc-f4d78a0ab0bb%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=wlde.vbirfio.site&fp=qq&type=ws&sni=s.vbirfio.site#🇪🇺 ОБХОД ГЛУШИЛОК №1
 vless://1c1291bf-5f96-4686-b7e4-17d8ec84a6e7@two.vbirfio.site:8443?path=%2F019bcdc-f4d78a0ab0bb%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=wlde.vbirfio.site&fp=qq&type=ws&sni=s.vbirfio.site#🇪🇺 ОБХОД ГЛУШИЛОК №2
 vless://1c1291bf-5f96-4686-b7e4-17d8ec84a6e7@three.vbirfio.site:443?path=%2F019bcdc-f4d78a0ab0bb%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=wlde.vbirfio.site&fp=qq&type=ws&sni=s.vbirfio.site#🇪🇺 ОБХОД ГЛУШИЛОК №3
