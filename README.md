@@ -33,14 +33,7 @@
 #announce:Если VРN не работает , обновите подписку. Перепродажу и распространение ключа делаю Харамом ‼️
 
 
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@95.163.214.83:7443?security=reality&encryption=none&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇩🇪 Антизаглушка №1
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@95.163.213.119:9443?mode=gun&security=reality&encryption=none&authority=&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&fp=random&allowinsecure=0&type=grpc&serviceName=&sni=max.ru&sid=e88606e9#🇱🇻 Антизаглушка №2
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@158.160.25.76:443?mode=auto&path=%2Fapi%2Fv3&security=reality&encryption=none&pbk=4Q3rbSvXgZKLEBpRRS8MbsPE6FNBzNw51ayhnB0_uA0&fp=chrome&allowinsecure=0&type=xhttp&sni=api-maps.yandex.ru&sid=87525c6191a84b#🇫🇷 Антизаглушка №3
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@cdn.omgcloud.ru:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=1&type=tcp&sni=max.ru#🇫🇮 Антизаглушка №4
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@51.250.0.90:9443?security=reality&encryption=none&pbk=kNFESrq8CZPA42GWAd8PM060TK1wQ2wI_BE6ssagsV0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=dc614539cd035f#🇨🇿 Антизаглушка №5
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@51.250.0.90:9443?security=reality&encryption=none&pbk=kNFESrq8CZPA42GWAd8PM060TK1wQ2wI_BE6ssagsV0&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=dc614539cd035f#🇬🇧 Антизаглушка №6
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@51.250.0.90:9443?security=reality&encryption=none&pbk=kNFESrq8CZPA42GWAd8PM060TK1wQ2wI_BE6ssagsV0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=dc614539cd035f#🇺🇿 Антизаглушка №7
-vless://0114ef6a-8dfc-4238-81e5-2490b3b85ba8@79.174.94.24:443?security=reality&encryption=none&pbk=M1tSFn_n-KePz4gg7OMVmGS8Le3RlisCycuzND0WbiY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=api-maps.yandex.ru&sid=a7#🇱🇻 Антизаглушка №8
+
 vless://f9348c30-8a34-40bc-ae15-e938235b9a6b@5.188.114.44:443?mode=multi&security=reality&encryption=none&pbk=h6gpE3mCwKFwTx7nn_hAtAIF1pHFIuXWdNVyYrokqkI&fp=firefox&spx=%2F1f630fecd5eceade&type=grpc&sni=max.ru&sid=dcbaae96dfd126d0#🇩🇪 Антизаглушка №9
 vless://f9348c30-8a34-40bc-ae15-e938235b9a6b@51.250.94.68:443?mode=multi&security=reality&encryption=none&pbk=h6gpE3mCwKFwTx7nn_hAtAIF1pHFIuXWdNVyYrokqkI&fp=firefox&spx=%2F1f630fecd5eceade&type=grpc&sni=max.ru&sid=dcbaae96dfd126d0#🇩🇪 Антизаглушка №10
 vless://f9348c30-8a34-40bc-ae15-e938235b9a6b@51.250.67.143:443?mode=multi&security=reality&encryption=none&pbk=h6gpE3mCwKFwTx7nn_hAtAIF1pHFIuXWdNVyYrokqkI&fp=firefox&spx=%2F1f630fecd5eceade&type=grpc&sni=max.ru&sid=dcbaae96dfd126d0#🇩🇪 Антизаглушка №11
