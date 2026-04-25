@@ -10,6 +10,7 @@ happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 #profile-web-page-url:https://wa.me/79639864491
 #profile-icon: https://share.google/Kl64QMcBQApgnH6aJ
 #profile-test-url: http://cp.cloudflare.com/generate_204
+vless://a231c089-9065-4525-a226-bb4f4fd487d2@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&echfq=none&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6fb05d1f3a#%F0%9F%87%AB%F0%9F%87%AE+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%F0%9F%9A%80+1
 vless://a231c089-9065-4525-a226-bb4f4fd487d2@ru.tgflovv.ru:443?security=reality&encryption=none&alpn=http/1.1&echfq=none&pbk=dnLLXzjeK60Uc_3ERBlnWIKRGmbXn9b--vn5Yl-LfVI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=6fb05d1f3a#%F0%9F%87%B7%F0%9F%87%BA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%E2%9A%A1+2
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:2443?security=reality&encryption=none&echfq=none&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yandex.ru#%F0%9F%87%AC%F0%9F%87%A7+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%E2%9A%A1+3
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:443?security=reality&encryption=none&echfq=none&pbk=KIRFKsdto8opnbRdEcTtsc3m-mTwW9L_Gnk5DSwrWx0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yandex.ru&sid=b8960f8a008648c1#%F0%9F%87%A9%F0%9F%87%AA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%E2%9A%A1+4
