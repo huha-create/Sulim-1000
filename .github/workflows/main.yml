@@ -38,7 +38,7 @@ jobs:
           echo "#subscription-update-interval: 1" >> README.md
           echo "#announce: Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!" >> README.md
           echo "#support-url: https://wa.me/79639864491" >> README.md
-          echo "#profile-web-page-url: https://wa.me/79659571323" >> README.md
+          echo "#profile-web-page-url: https://wa.me/79639864491" >> README.md
           echo "happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN" >> README.md
           echo "" >> README.md
 
