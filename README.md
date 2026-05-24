@@ -7,7 +7,7 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
-vless://1bb64662-1ed9-450c-8f58-b95abb582cfa@163.5.29.79:47005?security=reality&encryption=none&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🚨Ключ удаляется через 2 дня
+vless://1bb64662-1ed9-450c-8f58-b95abb582cfa@163.5.29.79:47005?security=reality&encryption=none&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🚨Ключ удаляется через 1 день 
 vless://1bb64662-1ed9-450c-8f58-b95abb582cfa@82.23.177.38:47005?security=reality&encryption=none&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#для замены ключа напишите 👇🏻
 vless://1bb64662-1ed9-450c-8f58-b95abb582cfa@82.25.185.238:47005?security=reality&encryption=none&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#ватсап 8(963)986-44-91
 
